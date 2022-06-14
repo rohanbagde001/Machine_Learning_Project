@@ -1,0 +1,4 @@
+venv/
+.git  # it is hidden file
+.gitignore
+.vscode
