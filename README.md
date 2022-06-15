@@ -8,8 +8,8 @@ conda create -p venv python==3.7 -y
 To set up CI/CD Pipeline in heroku we need 3 information
 
 1. Email-ID = rohannbagde001@gmail.com
-2. API-KEY = 990d92c4-a957-4343-a848-41dd94f241b5
-3. Heroku_App_Name = ml-regression-app
+2. API-KEY = <add a key from heroku>
+3. Heroku_App_Name = ml-regression-docker
 
 BUILD DOCKER IMAGE
 '''
